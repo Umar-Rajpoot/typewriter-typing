@@ -7,6 +7,15 @@ body{
     justify-content: center;
     align-items: center;
 }
+button{
+    border: none;
+    background-color: aqua;
+    color: orange;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    /* height: 20px; */
+}
 .typewriter p, .typewriter h1{
     color: white;
     font-family: monospace;
